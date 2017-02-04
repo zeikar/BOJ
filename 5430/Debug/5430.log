@@ -1,0 +1,12 @@
+﻿  소스.c
+d:\zeikar\zeikar's world 4\programming\c++\acmicpc_net\5430\소스.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\zeikar\zeikar's world 4\programming\c++\acmicpc_net\5430\소스.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\zeikar\zeikar's world 4\programming\c++\acmicpc_net\5430\소스.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\zeikar\zeikar's world 4\programming\c++\acmicpc_net\5430\소스.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+d:\zeikar\zeikar's world 4\programming\c++\acmicpc_net\5430\소스.c(14): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  5430.vcxproj -> D:\Zeikar\Zeikar's World 4\Programming\C++\acmicpc_net\Debug\5430.exe
+  5430.vcxproj -> D:\Zeikar\Zeikar's World 4\Programming\C++\acmicpc_net\Debug\5430.pdb (Partial PDB)

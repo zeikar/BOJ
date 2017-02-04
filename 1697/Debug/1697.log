@@ -1,0 +1,14 @@
+﻿빌드 시작: 2016-01-02 11:53:04
+     1>2 노드의 "D:\Zeikar\Zeikar's World 4\Programming\C++\acmicpc_net\1697\1697.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "소스.cpp"
+         소스.cpp
+     1>d:\zeikar\zeikar's world 4\programming\c++\acmicpc_net\1697\소스.cpp(49): warning C4715: 'bfs' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Zeikar\Zeikar's World 4\Programming\C++\acmicpc_net\Debug\1697.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Zeikar\Zeikar's World 4\Programming\C++\acmicpc_net\Debug\1697.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Zeikar\Zeikar's World 4\Programming\C++\acmicpc_net\Debug\1697.lib" /MACHINE:X86 "Debug\소스.obj"
+         1697.vcxproj -> D:\Zeikar\Zeikar's World 4\Programming\C++\acmicpc_net\Debug\1697.exe
+     1>"D:\Zeikar\Zeikar's World 4\Programming\C++\acmicpc_net\1697\1697.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.90
