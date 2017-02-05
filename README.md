@@ -1,2 +1,2 @@
 # BOJ
-Algorithm Study in https://www.acmicpc.net/
+Algorithm Study on https://www.acmicpc.net/
